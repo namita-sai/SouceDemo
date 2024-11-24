@@ -1,0 +1,37 @@
+2024-11-24 22:36:25,265 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-11-24 22:36:27,839 - Luma Domain. -INFO - Open Loggin Page.
+2024-11-24 22:36:28,721 - Luma Domain. -INFO - Enter UserNamestandard_user
+2024-11-24 22:36:28,797 - Luma Domain. -INFO - Enter Passwordsecret_sauce
+2024-11-24 22:36:29,356 - Luma Domain. -INFO - User is on product page.
+2024-11-24 22:36:29,512 - Luma Domain. -INFO - First product selected.
+2024-11-24 22:36:29,522 - Luma Domain. -INFO - Scroll Down
+2024-11-24 22:36:29,586 - Luma Domain. -INFO - Second product selected.
+2024-11-24 22:36:29,911 - Luma Domain. -INFO - Select price from low to high
+2024-11-24 22:36:30,150 - Luma Domain. -INFO - Cart number asseriotn passed.
+2024-11-24 22:36:30,322 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
+2024-11-24 22:36:31,337 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-11-24 22:36:33,876 - Luma Domain. -INFO - Open Loggin Page.
+2024-11-24 22:36:34,124 - Luma Domain. -INFO - Enter UserNamestandard_user
+2024-11-24 22:36:34,242 - Luma Domain. -INFO - Enter Passwordsecret_sauce
+2024-11-24 22:36:34,804 - Luma Domain. -INFO - User is on product page.
+2024-11-24 22:36:34,959 - Luma Domain. -INFO - First product selected.
+2024-11-24 22:36:34,968 - Luma Domain. -INFO - Scroll Down
+2024-11-24 22:36:35,033 - Luma Domain. -INFO - Second product selected.
+2024-11-24 22:36:35,358 - Luma Domain. -INFO - Select price from low to high
+2024-11-24 22:36:35,694 - Luma Domain. -INFO - User is on cart page.
+2024-11-24 22:36:35,756 - Luma Domain. -INFO - First Product successfully aded.
+2024-11-24 22:36:35,783 - Luma Domain. -INFO - Second Product successfully aded.
+2024-11-24 22:36:35,902 - Luma Domain. -INFO - User is on CheckOuts Page
+2024-11-24 22:36:36,094 - Luma Domain. -INFO - Enter First Name
+2024-11-24 22:36:36,160 - Luma Domain. -INFO - Enter Last Name
+2024-11-24 22:36:36,231 - Luma Domain. -INFO - Enter Pstal Code Name
+2024-11-24 22:36:36,474 - Luma Domain. -INFO - Click on continue button.
+2024-11-24 22:36:36,509 - Luma Domain. -INFO - Payment info Assertion passed.
+2024-11-24 22:36:36,528 - Luma Domain. -INFO - Payment info Assertion passed.
+2024-11-24 22:36:36,548 - Luma Domain. -INFO - Payment info Assertion passed.
+2024-11-24 22:36:36,624 - Luma Domain. -INFO - Click on Finish Button
+2024-11-24 22:36:36,729 - Luma Domain. -INFO - Dispatch info Assertion passed.
+2024-11-24 22:36:36,737 - Luma Domain. -INFO - Scrolled UP.
+2024-11-24 22:36:36,792 - Luma Domain. -INFO - Close Menu Clicked.
+2024-11-24 22:36:36,983 - Luma Domain. -INFO - Logout Clicked.
+2024-11-24 22:36:37,146 - Luma Domain. -INFO - ------------ ::  Done  :: ------------
